@@ -80,7 +80,7 @@ st.write("Mistakes Tracking:")
 for q, count in st.session_state.mistakes.items():
     st.write(f"{q} - Mistakes: {count}")
 
-pip install streamlit
+#pip install streamlit
 
-pip install PyPDF2
+#pip install PyPDF2
 
